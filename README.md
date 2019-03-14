@@ -1,4 +1,4 @@
-# language-translate
+
 # language-translate
 How to use multiple language in Laravel-----
 
